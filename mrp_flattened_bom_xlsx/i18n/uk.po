@@ -30,3 +30,9 @@ msgstr "Кількість"
 #: code:addons/mrp_flattened_bom_xlsx/report/flattened_bom_xlsx.py:0
 msgid "Reference"
 msgstr "Посилання"
+
+#. module: mrp_flattened_bom_xlsx
+#. odoo-python
+#: code:addons/mrp_flattened_bom_xlsx/report/flattened_bom_xlsx.py:0
+msgid "Unit of Measure"
+msgstr "Одиниця вимірювання"

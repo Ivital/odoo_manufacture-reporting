@@ -89,3 +89,100 @@ msgstr "Кількість"
 #: code:addons/mrp_bom_current_stock/reports/report_mrpcurrentstock_xlsx.py:0
 msgid "UoM"
 msgstr "Од. вим."
+
+#. module: mrp_bom_current_stock
+#. odoo-python
+#: code:addons/mrp_bom_current_stock/reports/report_mrpcurrentstock_xlsx.py:0
+#: model_terms:ir.ui.view,arch_db:mrp_bom_current_stock.report_mrpbom_current_stock_pdf
+msgid "BOM Current Stock Report"
+msgstr "Звіт поточних запасів BOM"
+
+#. module: mrp_bom_current_stock
+#: model_terms:ir.ui.view,arch_db:mrp_bom_current_stock.mrp_bom_current_stock_view_form
+msgid "Cancel"
+msgstr "Скасувати"
+
+#. module: mrp_bom_current_stock
+#: model_terms:ir.ui.view,arch_db:mrp_bom_current_stock.mrp_bom_current_stock_view_form2
+msgid "Close"
+msgstr "Закрити"
+
+#. module: mrp_bom_current_stock
+#: model_terms:ir.ui.view,arch_db:mrp_bom_current_stock.mrp_bom_current_stock_view_form
+msgid "Explode"
+msgstr "Розгорнути"
+
+#. module: mrp_bom_current_stock
+#: model_terms:ir.ui.view,arch_db:mrp_bom_current_stock.mrp_bom_current_stock_view_form2
+msgid "Explosion result"
+msgstr "Результат розгортання"
+
+#. module: mrp_bom_current_stock
+#: model_terms:ir.ui.view,arch_db:mrp_bom_current_stock.mrp_bom_current_stock_view_form2
+msgid "Export XLSX"
+msgstr "Експортувати XLSX"
+
+#. module: mrp_bom_current_stock
+#: model:ir.model.fields,field_description:mrp_bom_current_stock.field_mrp_bom_current_stock__write_uid
+#: model:ir.model.fields,field_description:mrp_bom_current_stock.field_mrp_bom_current_stock_line__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: mrp_bom_current_stock
+#: model:ir.model.fields,field_description:mrp_bom_current_stock.field_mrp_bom_current_stock__write_date
+#: model:ir.model.fields,field_description:mrp_bom_current_stock.field_mrp_bom_current_stock_line__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: mrp_bom_current_stock
+#: model_terms:ir.ui.view,arch_db:mrp_bom_current_stock.report_mrpbom_current_stock_pdf
+msgid "Location:"
+msgstr "Місце:"
+
+#. module: mrp_bom_current_stock
+#: model_terms:ir.ui.view,arch_db:mrp_bom_current_stock.mrp_bom_current_stock_view_form2
+msgid "Print PDF"
+msgstr "Друкувати PDF"
+
+#. module: mrp_bom_current_stock
+#: model:ir.model.fields,field_description:mrp_bom_current_stock.field_mrp_bom_current_stock_line__product_qty
+msgid "Product Quantity"
+msgstr "Кількість товару"
+
+#. module: mrp_bom_current_stock
+#: model:ir.model.fields,field_description:mrp_bom_current_stock.field_mrp_bom_current_stock__product_tmpl_id
+msgid "Product Template"
+msgstr "Шаблон товару"
+
+#. module: mrp_bom_current_stock
+#: model:ir.model.fields,field_description:mrp_bom_current_stock.field_mrp_bom_current_stock_line__product_uom_id
+msgid "Product Unit of Measure"
+msgstr "Одиниця вимірювання товару"
+
+#. module: mrp_bom_current_stock
+#: model:ir.model.fields,field_description:mrp_bom_current_stock.field_mrp_bom_current_stock__product_id
+#: model:ir.model.fields,field_description:mrp_bom_current_stock.field_mrp_bom_current_stock_line__product_id
+msgid "Product Variant"
+msgstr "Варіант товару"
+
+#. module: mrp_bom_current_stock
+#. odoo-python
+#: code:addons/mrp_bom_current_stock/reports/report_mrpcurrentstock_xlsx.py:0
+#: model_terms:ir.ui.view,arch_db:mrp_bom_current_stock.report_mrpbom_current_stock_pdf
+msgid "Qty Available (Location)"
+msgstr "Доступна кількість (місце)"
+
+#. module: mrp_bom_current_stock
+#: model:ir.model.fields,field_description:mrp_bom_current_stock.field_mrp_bom_current_stock_line__location_id
+msgid "Source location"
+msgstr "Початкове місце"
+
+#. module: mrp_bom_current_stock
+#: model:ir.model.fields,field_description:mrp_bom_current_stock.field_mrp_bom_current_stock__product_uom_id
+msgid "Unit of Measure"
+msgstr "Одиниця вимірювання"
+
+#. module: mrp_bom_current_stock
+#: model_terms:ir.ui.view,arch_db:mrp_bom_current_stock.mrp_bom_current_stock_view_form2
+msgid "or"
+msgstr "або"

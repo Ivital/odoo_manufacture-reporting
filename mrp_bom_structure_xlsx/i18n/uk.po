@@ -36,3 +36,9 @@ msgstr "Кількість"
 #: code:addons/mrp_bom_structure_xlsx/report/bom_structure_xlsx.py:0
 msgid "Reference"
 msgstr "Посилання"
+
+#. module: mrp_bom_structure_xlsx
+#. odoo-python
+#: code:addons/mrp_bom_structure_xlsx/report/bom_structure_xlsx.py:0
+msgid "Unit of Measure"
+msgstr "Одиниця вимірювання"
