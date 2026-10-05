@@ -17,3 +17,8 @@ msgstr ""
 #: model:ir.actions.report,name:mrp_bom_structure_xlsx_level_1.bom_structure_xlsx_l1
 msgid "Export BoM Structure (Level 1) to Excel"
 msgstr "Експортувати структуру специфікації (рівень 1) в Excel"
+
+#. module: mrp_bom_structure_xlsx_level_1
+#: model:ir.model,name:mrp_bom_structure_xlsx_level_1.model_report_mrp_bom_structure_xlsx_l1_bom_structure_xlsx_l1
+msgid "BOM Structure XLSX Level 1 Report"
+msgstr "XLSX-звіт структури специфікації, рівень 1"

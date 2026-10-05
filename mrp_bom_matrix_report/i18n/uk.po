@@ -54,3 +54,8 @@ msgstr "Батьківський шаблон товару"
 #: model_terms:ir.ui.view,arch_db:mrp_bom_matrix_report.mrp_bom_matrix_report_search_view
 msgid "Report MRP BOM Matrix"
 msgstr "Звіт матриці BoM MRP"
+
+#. module: mrp_bom_matrix_report
+#: model:ir.model,name:mrp_bom_matrix_report.model_mrp_bom_matrix_report
+msgid "MRP BoM Matrix Report"
+msgstr "Матричний звіт специфікації MRP"

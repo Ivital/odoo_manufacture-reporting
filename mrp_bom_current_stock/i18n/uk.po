@@ -221,3 +221,43 @@ msgstr "Початкова специфікація"
 #: model:ir.model.fields,field_description:mrp_bom_current_stock.field_mrp_bom_current_stock__location_id
 msgid "Starting location"
 msgstr "Початкове місце"
+
+#. module: mrp_bom_current_stock
+#: model:ir.model,name:mrp_bom_current_stock.model_report_mrp_bom_current_stock_report_mrpbom_current_stock_xlsx
+msgid "MRP BOM Current Stock XLSX Report"
+msgstr "XLSX-звіт поточного запасу специфікації MRP"
+
+#. module: mrp_bom_current_stock
+#: model:ir.model,name:mrp_bom_current_stock.model_mrp_bom_current_stock
+msgid "MRP Bom Route Current Stock"
+msgstr "Поточний запас маршруту специфікації MRP"
+
+#. module: mrp_bom_current_stock
+#: model:ir.model,name:mrp_bom_current_stock.model_mrp_bom_current_stock_line
+msgid "MRP Bom Route Current Stock Line"
+msgstr "Рядок поточного запасу маршруту специфікації MRP"
+
+#. module: mrp_bom_current_stock
+#. odoo-python
+#: code:addons/mrp_bom_current_stock/reports/report_mrpcurrentstock_xlsx.py:0
+msgid "Product Reference"
+msgstr "Референс товару"
+
+#. module: mrp_bom_current_stock
+#: model:ir.model.fields,help:mrp_bom_current_stock.field_mrp_bom_current_stock__product_qty
+msgid ""
+"This should be the smallest quantity that this product can be produced in. "
+"If the BOM contains operations, make sure the work center capacity is "
+"accurate."
+msgstr ""
+"Це має бути найменша кількість, у якій можна виробити цей товар. Якщо "
+"специфікація містить операції, переконайтеся, що потужність робочого центру "
+"вказана правильно."
+
+#. module: mrp_bom_current_stock
+#: model:ir.model.fields,help:mrp_bom_current_stock.field_mrp_bom_current_stock__product_uom_id
+msgid ""
+"Unit of Measure (Unit of Measure) is the unit of measurement for the "
+"inventory control"
+msgstr ""
+"Одиниця вимірювання — це одиниця, що використовується для обліку запасів"

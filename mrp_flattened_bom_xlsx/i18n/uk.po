@@ -41,3 +41,20 @@ msgstr "Одиниця вимірювання"
 #: model:ir.actions.report,name:mrp_flattened_bom_xlsx.flattened_bom_xlsx
 msgid "Export Flattened BOM Structure to Excel"
 msgstr "Експортувати плоску структуру специфікації в Excel"
+
+#. module: mrp_flattened_bom_xlsx
+#. odoo-python
+#: code:addons/mrp_flattened_bom_xlsx/report/flattened_bom_xlsx.py:0
+msgid "BOM Name"
+msgstr "Назва специфікації"
+
+#. module: mrp_flattened_bom_xlsx
+#: model:ir.model,name:mrp_flattened_bom_xlsx.model_report_mrp_flattened_bom_xlsx_flattened_bom_xlsx
+msgid "Flattened BOM XLSX"
+msgstr "Плоска специфікація XLSX"
+
+#. module: mrp_flattened_bom_xlsx
+#. odoo-python
+#: code:addons/mrp_flattened_bom_xlsx/report/flattened_bom_xlsx.py:0
+msgid "Product Reference"
+msgstr "Референс товару"

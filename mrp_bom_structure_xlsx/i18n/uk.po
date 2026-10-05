@@ -47,3 +47,20 @@ msgstr "Одиниця вимірювання"
 #: model:ir.actions.report,name:mrp_bom_structure_xlsx.bom_structure_xlsx
 msgid "Export BoM Structure to Excel"
 msgstr "Експортувати структуру специфікації в Excel"
+
+#. module: mrp_bom_structure_xlsx
+#. odoo-python
+#: code:addons/mrp_bom_structure_xlsx/report/bom_structure_xlsx.py:0
+msgid "BOM Name"
+msgstr "Назва специфікації"
+
+#. module: mrp_bom_structure_xlsx
+#: model:ir.model,name:mrp_bom_structure_xlsx.model_report_mrp_bom_structure_xlsx_bom_structure_xlsx
+msgid "BOM Structure XLSX Report"
+msgstr "XLSX-звіт структури специфікації"
+
+#. module: mrp_bom_structure_xlsx
+#. odoo-python
+#: code:addons/mrp_bom_structure_xlsx/report/bom_structure_xlsx.py:0
+msgid "Product Reference"
+msgstr "Референс товару"
