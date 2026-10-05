@@ -58,3 +58,9 @@ msgstr "Плоска специфікація XLSX"
 #: code:addons/mrp_flattened_bom_xlsx/report/flattened_bom_xlsx.py:0
 msgid "Product Reference"
 msgstr "Референс товару"
+
+#. module: mrp_flattened_bom_xlsx
+#. odoo-python
+#: code:addons/mrp_flattened_bom_xlsx/report/flattened_bom_xlsx.py:0
+msgid "Flattened BOM"
+msgstr "Розгорнута специфікація"

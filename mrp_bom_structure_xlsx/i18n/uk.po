@@ -64,3 +64,9 @@ msgstr "XLSX-звіт структури специфікації"
 #: code:addons/mrp_bom_structure_xlsx/report/bom_structure_xlsx.py:0
 msgid "Product Reference"
 msgstr "Референс товару"
+
+#. module: mrp_bom_structure_xlsx
+#. odoo-python
+#: code:addons/mrp_bom_structure_xlsx/report/bom_structure_xlsx.py:0
+msgid "BOM Structure"
+msgstr "Структура специфікації"

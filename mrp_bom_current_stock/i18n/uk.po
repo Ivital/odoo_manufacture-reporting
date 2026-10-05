@@ -261,3 +261,21 @@ msgid ""
 "inventory control"
 msgstr ""
 "Одиниця вимірювання — це одиниця, що використовується для обліку запасів"
+
+#. module: mrp_bom_current_stock
+#. odoo-python
+#: code:addons/mrp_bom_current_stock/reports/report_mrpcurrentstock_xlsx.py:0
+msgid "BoM Reference"
+msgstr "Посилання специфікації"
+
+#. module: mrp_bom_current_stock
+#. odoo-python
+#: code:addons/mrp_bom_current_stock/reports/report_mrpcurrentstock_xlsx.py:0
+msgid "Parent BoM Ref"
+msgstr "Посилання батьківської специфікації"
+
+#. module: mrp_bom_current_stock
+#. odoo-python
+#: code:addons/mrp_bom_current_stock/reports/report_mrpcurrentstock_xlsx.py:0
+msgid "Parent Product Ref"
+msgstr "Посилання батьківського товару"
