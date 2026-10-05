@@ -36,3 +36,8 @@ msgstr "Посилання"
 #: code:addons/mrp_flattened_bom_xlsx/report/flattened_bom_xlsx.py:0
 msgid "Unit of Measure"
 msgstr "Одиниця вимірювання"
+
+#. module: mrp_flattened_bom_xlsx
+#: model:ir.actions.report,name:mrp_flattened_bom_xlsx.flattened_bom_xlsx
+msgid "Export Flattened BOM Structure to Excel"
+msgstr "Експортувати плоску структуру специфікації в Excel"

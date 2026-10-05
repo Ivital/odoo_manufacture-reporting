@@ -186,3 +186,38 @@ msgstr "Одиниця вимірювання"
 #: model_terms:ir.ui.view,arch_db:mrp_bom_current_stock.mrp_bom_current_stock_view_form2
 msgid "or"
 msgstr "або"
+
+#. module: mrp_bom_current_stock
+#: model:ir.actions.report,name:mrp_bom_current_stock.action_report_bom_current_stock_pdf
+msgid "BoM: Current Stock Report PDF"
+msgstr "Специфікація: звіт про поточний запас PDF"
+
+#. module: mrp_bom_current_stock
+#: model:ir.actions.report,name:mrp_bom_current_stock.action_report_bom_current_stock_xlsx
+msgid "BoM: Current Stock Report XLSX"
+msgstr "Специфікація: звіт поточного запасу XLSX"
+
+#. module: mrp_bom_current_stock
+#: model:ir.model.fields,field_description:mrp_bom_current_stock.field_mrp_bom_current_stock_line__qty_available_in_source_loc
+msgid "Qty Available in Source"
+msgstr "Доступна кількість у джерелі"
+
+#. module: mrp_bom_current_stock
+#: model_terms:ir.ui.view,arch_db:mrp_bom_current_stock.mrp_bom_current_stock_view_form
+msgid "Select product and location to explode"
+msgstr "Виберіть товар і місце для розгортання"
+
+#. module: mrp_bom_current_stock
+#: model_terms:ir.ui.view,arch_db:mrp_bom_current_stock.mrp_bom_current_stock_view_form2
+msgid "Set the source location for every component."
+msgstr "Встановити місце джерела для кожного компонента."
+
+#. module: mrp_bom_current_stock
+#: model:ir.model.fields,field_description:mrp_bom_current_stock.field_mrp_bom_current_stock__bom_id
+msgid "Starting Bill of Materials"
+msgstr "Початкова специфікація"
+
+#. module: mrp_bom_current_stock
+#: model:ir.model.fields,field_description:mrp_bom_current_stock.field_mrp_bom_current_stock__location_id
+msgid "Starting location"
+msgstr "Початкове місце"

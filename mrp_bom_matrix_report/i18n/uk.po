@@ -34,3 +34,23 @@ msgstr "Кількість використань у батьківському"
 #: model_terms:ir.ui.view,arch_db:mrp_bom_matrix_report.mrp_bom_matrix_report_pivot
 msgid "MRP BOM Matrix Report"
 msgstr "Матричний звіт MRP BOM"
+
+#. module: mrp_bom_matrix_report
+#: model:ir.model.fields,field_description:mrp_bom_matrix_report.field_mrp_bom_matrix_report__component_id
+msgid "Component Product"
+msgstr "Товар-компонент"
+
+#. module: mrp_bom_matrix_report
+#: model:ir.model.fields,field_description:mrp_bom_matrix_report.field_mrp_bom_matrix_report__parent_category_id
+msgid "Parent Product Category"
+msgstr "Батьківська категорія товару"
+
+#. module: mrp_bom_matrix_report
+#: model:ir.model.fields,field_description:mrp_bom_matrix_report.field_mrp_bom_matrix_report__parent_template_id
+msgid "Parent Product Template"
+msgstr "Батьківський шаблон товару"
+
+#. module: mrp_bom_matrix_report
+#: model_terms:ir.ui.view,arch_db:mrp_bom_matrix_report.mrp_bom_matrix_report_search_view
+msgid "Report MRP BOM Matrix"
+msgstr "Звіт матриці BoM MRP"

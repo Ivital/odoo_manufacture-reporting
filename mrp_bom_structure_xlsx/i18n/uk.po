@@ -42,3 +42,8 @@ msgstr "Посилання"
 #: code:addons/mrp_bom_structure_xlsx/report/bom_structure_xlsx.py:0
 msgid "Unit of Measure"
 msgstr "Одиниця вимірювання"
+
+#. module: mrp_bom_structure_xlsx
+#: model:ir.actions.report,name:mrp_bom_structure_xlsx.bom_structure_xlsx
+msgid "Export BoM Structure to Excel"
+msgstr "Експортувати структуру специфікації в Excel"
